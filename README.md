@@ -82,7 +82,7 @@ Python • Streamlit • Librosa • Scikit-learn • Pandas • NumPy
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SrikanthKanumuri09&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=&theme=tokyo-nightPurnatejareddy01"/>
 
 </p>
 
